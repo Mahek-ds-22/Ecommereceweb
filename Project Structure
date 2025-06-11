@@ -1,0 +1,20 @@
+ecommerce-chatbot/
+├── backend/
+│   ├── app.py
+│   ├── models.py
+│   ├── database.db
+│   ├── requirements.txt
+│   └── mock_data.py
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── ChatInterface.jsx
+│   │   │   ├── Login.jsx
+│   │   │   └── ProductDisplay.jsx
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   └── index.js
+│   ├── package.json
+│   └── README.md
+└── README.md
