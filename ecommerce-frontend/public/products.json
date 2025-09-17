@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Smartphone", "price": 599, "category": "Electronics", "image": "https://via.placeholder.com/150" },
+  { "id": 2, "name": "Headphones", "price": 99, "category": "Electronics", "image": "https://via.placeholder.com/150" },
+  { "id": 3, "name": "Running Shoes", "price": 120, "category": "Fashion", "image": "https://via.placeholder.com/150" },
+  { "id": 4, "name": "Backpack", "price": 80, "category": "Fashion", "image": "https://via.placeholder.com/150" },
+  { "id": 5, "name": "Coffee Maker", "price": 150, "category": "Home", "image": "https://via.placeholder.com/150" }
+]
